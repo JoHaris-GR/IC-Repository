@@ -1,1 +1,1 @@
-# IC-Repository
+# Example of README.md
